@@ -1,6 +1,6 @@
 - name: nuxt-nitro-database-crud
   desc: 'Nuxt 4 + Nitro’nun yerleşik veritabanı katmanıyla CRUD başlangıç şablonu.'
-  href: 'https://github.com/atlaxt/nuxt-nitro-database-crud'
+  href: 'https://github.com/atlaxt/nuxt-nitro-database-crud-starter'
 
 - name: starter-vue-nuxtui
   desc: 'Vue 3 + Nuxt UI başlangıç şablonu.'
