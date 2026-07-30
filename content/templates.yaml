@@ -1,3 +1,7 @@
+- name: wxt-vue-nuxtui-pinia-starter
+  desc: 'Nuxt UI ve Pinia ile tarayıcı eklentisi başlangıç şablonu.'
+  href: 'https://github.com/atlaxt/wxt-vue-nuxtui-pinia-starter'
+
 - name: nuxt-nitro-database-crud
   desc: 'Nuxt 4 + Nitro’nun yerleşik veritabanı katmanıyla CRUD başlangıç şablonu.'
   href: 'https://github.com/atlaxt/nuxt-nitro-database-crud-starter'
