@@ -188,7 +188,7 @@ const jsonLd = {
       'name': 'Atlas Yiğit Aydın',
       'url': 'https://atlaxt.me',
       'sameAs': socials.filter(s => s.external).map(s => s.href),
-      'jobTitle': 'Web Geliştirici',
+      'jobTitle': 'Frontend Geliştirici',
       'worksFor': { '@type': 'Organization', 'name': 'trex Digital Manufacturing' },
     },
     {
@@ -196,7 +196,7 @@ const jsonLd = {
       '@id': 'https://atlaxt.me/#website',
       'url': 'https://atlaxt.me',
       'name': 'Atlas Yiğit Aydın',
-      'description': 'Vue ekosistemine odaklanan web geliştirici.',
+      'description': 'Vue ekosistemine odaklanan frontend geliştirici.',
       'inLanguage': 'tr-TR',
       'author': { '@id': 'https://atlaxt.me/#person' },
     },
@@ -219,7 +219,7 @@ function setShineDuration(sec: number) {
 
 useSeo({
   title: 'Atlas Yiğit Aydın',
-  description: 'Web geliştirici — Vue ekosistemine odaklanan, UX\'e önem veren.',
+  description: 'Frontend geliştirici — Vue ekosistemine odaklanan, UX\'e önem veren.',
   canonicalPath: '/',
   type: 'website',
   jsonLd,
@@ -290,7 +290,7 @@ useSeo({
           Atlas Yiğit Aydın
         </h1>
         <p class="text-sm leading-relaxed max-w-xs" style="color: var(--text-muted);">
-          Öncelikli olarak Nuxt ekosistemine odaklanan bir Web Geliştiricisiyim. Nihai hedefim, yalnızca işlevsel kod yazmanın ötesine geçerek her üründe üst düzey Kullanıcı Deneyimi (UX) sunmak.
+          Öncelikli olarak Nuxt ekosistemine odaklanan bir Frontend Geliştiricisiyim. Nihai hedefim, yalnızca işlevsel kod yazmanın ötesine geçerek her üründe üst düzey Kullanıcı Deneyimi (UX) sunmak.
         </p>
         <!-- Şu an çalışılan yer -->
         <div class="inline-flex items-center gap-2 mt-6 text-xs" style="color: #4ade80;">
