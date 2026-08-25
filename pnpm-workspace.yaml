@@ -1,6 +1,5 @@
 allowBuilds:
-  '@parcel/watcher': false
-  '@tailwindcss/oxide': false
-  esbuild: false
-  unrs-resolver: false
-  vue-demi: false
+  better-sqlite3: true
+  esbuild: true
+  unrs-resolver: true
+  vue-demi: true
