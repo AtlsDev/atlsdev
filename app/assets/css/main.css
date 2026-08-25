@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+  --font-sans: 'Outfit', sans-serif;
+}
+
+:root {
+  --ui-radius: 0rem;
+  --ui-primary: black;
+  --ui-container: var(--container-6xl);
+}
+
+.dark {
+  --ui-primary: white;
+}
